@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nanny</string>
+
+    <string name="month_prompt">Select a Month</string>
+    <string name="budget">budget</string>
+    <string name="category">category</string>
+    <string name="set_budget">Set Budget</string>
+    <string name="action_settings">Settings</string>
+</resources>
